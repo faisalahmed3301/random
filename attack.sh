@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-URL="https://shop.bongodigitalbd.com/"
+URL="https://bongodigitalbd.com/"
 THREADS=4
 CONNECTIONS=275
 DURATION="15s"
